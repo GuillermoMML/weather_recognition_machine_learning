@@ -25,7 +25,7 @@ Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accuren
 |6| 64, 128, 128, 128, 256, 7| relu, softmax|0.25, 0.25, 0.25, 0.30|0.8208|
 |6| 64, 64, 64, 64, 256, 7| relu, softmax|0.25, 0.25, 0.25, 0.30|0.8266|
 |6| 128, 64, 128, 64, 256, 7| relu, softmax|0.25, 0.25, 0.50, 0.50|0.8862|
-|5| 128, 128, 128, 256, 7| relu, softmax|0.50, 0.50, 0.50, 0.50|0.9909|
+|5| 128, 128, 128, 256, 7| relu, softmax|0.50, 0.50, 0.50, 0.50|0.9712|
 
 ## Conclusion
 We can cleary observe, that the **accurency** is much higher when we implement the **Data Augementation** class. 
