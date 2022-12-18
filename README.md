@@ -39,7 +39,7 @@ Model Accuracy | Confusion Matrix
 <img src="https://cdn.discordapp.com/attachments/895966492410118194/1054012044178882560/image.png" width="600" height="300" />  |  <img src="https://cdn.discordapp.com/attachments/895966492410118194/1054012081889873960/image.png" width="600" height="300" />
 
 ## Distributors ✍️
-* [Louka Vanhoucke](https://github.com/LuksFlukss)
-* [Guillermo Marión Lopez](https://github.com/GuillermoMML)
+* **Louka Vanhoucke** [@LuksFlukss](https://github.com/LuksFlukss)
+* **Guillermo Marión Lopez** [@GuillermoMML](https://github.com/GuillermoMML)
 
 * Main Code => [@CayetanoGuerra](https://cayetanoguerra.github.io/ia/)
