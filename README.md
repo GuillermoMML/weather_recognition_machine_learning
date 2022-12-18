@@ -36,7 +36,7 @@ Observing the Graph we can also add that our **lost_value** decrease significant
 
 Model Accuracy | Confusion Matrix
 :-------------------------:|:-------------------------:
-<img src="https://cdn.discordapp.com/attachments/895966492410118194/1054012044178882560/image.png" width="620" height="350" />  |  <img src="https://cdn.discordapp.com/attachments/895966492410118194/1054012081889873960/image.png" width="620" height="350" />
+<img src="https://cdn.discordapp.com/attachments/895966492410118194/1054012044178882560/image.png" width="600" height="300" />  |  <img src="https://cdn.discordapp.com/attachments/895966492410118194/1054012081889873960/image.png" width="600" height="300" />
 
 ## Distributors ✍️
 * [Louka Vanhoucke](https://github.com/LuksFlukss)
