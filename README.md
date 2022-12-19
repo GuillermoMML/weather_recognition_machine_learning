@@ -30,10 +30,10 @@ Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accurac
 |5| 128, 128, 128, 256, 7| relu, softmax|0.50, 0.50, 0.50, 0.50|0.9712|
 
 ## Conclusion
-We can cleary observe, that the **accuracy** is much higher when we implement the **Data Augementation** class. 
+We can clearly observe, that the **accuracy** is much higher when we implement the **Data Augementation** class. 
 <br>
 Without Data Augementation, we reached an accuracy of roughly **55%-60%**, and while using Data Augementation, we reached after several tests, **98%-99%** accuracy
-Observing the Graph we can also add that our **lost_value** decrease significantly, while oure training and validation tests reach a high/stable level.
+Observing the Graph we can also add that our **lost_value** decreases significantly, while your training and validation tests reach a high/stable level.
 
 
 Model Accuracy | Confusion Matrix
