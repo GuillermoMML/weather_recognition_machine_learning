@@ -14,14 +14,14 @@ We implemented a function, which uses previous trained images from the used data
 In order to do this, we imported ```ImageDataGenerator, img_to_array, load_img``` from ```tensorflow.keras.preprocessing.image```
 
 ## Efficiency Table Without Data Augmentation
-Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accurency|
+Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accuracy|
 |:---|:---|:---|:---|:---|
 |5| 16, 32, 64, 128, 7| relu, softmax|0.25, 0.25, 0.5|0.5143|
 |7| 32, 64, 128, 256, 20, 256, 7| relu, softmax|0.20, 0.25, 0.30, 0.35, 0.5|0.5000|
 |7| 32, 64, 128, 256, 20, 256, 7| relu, softmax|0.20, 0.25, 0.30, 0.35, 0.5|0.5571|
 
 ## Efficiency Table With Data Augmentation
-Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accurency|
+Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accuracy|
 |:---|:---|:---|:---|:---|
 |6| 64, 64, 64, 64, 256, 7| relu, softmax|0.10, 0.10, 0.10, 0.10|0.7861|
 |6| 64, 128, 128, 128, 256, 7| relu, softmax|0.25, 0.25, 0.25, 0.30|0.8208|
@@ -30,9 +30,9 @@ Number Of Layers|Number Of Neurons Per Layer|Activation Function|DropOut|Accuren
 |5| 128, 128, 128, 256, 7| relu, softmax|0.50, 0.50, 0.50, 0.50|0.9712|
 
 ## Conclusion
-We can cleary observe, that the **accurency** is much higher when we implement the **Data Augementation** class. 
+We can cleary observe, that the **accuracy** is much higher when we implement the **Data Augementation** class. 
 <br>
-Without Data Augementation, we reached an accurrency of roughly **55%-60%**, and while using Data Augementation, we reached after several tests, **98%-99%** accurency
+Without Data Augementation, we reached an accuracy of roughly **55%-60%**, and while using Data Augementation, we reached after several tests, **98%-99%** accuracy
 Observing the Graph we can also add that our **lost_value** decrease significantly, while oure training and validation tests reach a high/stable level.
 
 
