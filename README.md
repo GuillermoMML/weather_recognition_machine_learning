@@ -1,7 +1,9 @@
 # Weather Recognition Machine Learning ⛅
 
 ## Introduction
-ñoihjñoihji
+In this project, we will study several aspects of machine learning. This neural network can recognize different types of weather conditions, such as **dew, fog, smog, rain, etc...** 
+
+Our motivation to have selected this dataset is that many devices and vehicles are capable of recognizing their environment, depending on their environment they behave in one way or another, so knowing the weather conditions can be very useful in specific cases.
 
 ## Datasets 📁
 All images used for the **training set** and for the **validation set**, have been extracted from this dataset: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset <br>
